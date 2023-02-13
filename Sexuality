@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sexuality</title>
+	<link rel="stylesheet" type="text/css" href="S.css" />
+</head>
+
+<body>
+<div class="header">
+  <h2>Queer Youth</h2>
+</div>
+
+<ul>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/QueerYouth.html">Home</a></li>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/Sexuality.html">Sexuality</a></li>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/GenderIdentity.html">Gender Identity</a></li>
+  <li style="float:right"><a class="active" href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/MyMission.html">My Mission</a></li>
+</ul>
+<center>
+
+<h2>Gay</h2>
+	<p>Gay is a term generally used to describe when a man or man-aligned* person is attracted specifically to another man or man-aligned person, but it is also used as an umbrella term for anyones attraction to the same gender.</p>
+<div class="container">
+  <img src="file:///C:/Users/Caelyn%20Pettyjohn/Downloads/Queer%20Youth/MLM.png" alt="Mlm" class="image">
+  <div class="overlay">
+    <div class="text">This flag is the mlm gay flag, but there is also the rainbow which is more widely known.</div>
+  </div>
+</div>
+	
+<h2>Lesbian</h2>
+	<p>Lesbian is a term for when a woman or woman-aligned* person is attracted to another woman or woman aligned person.</p>
+	
+<div class="container">
+  <img src="file:///C:/Users/Caelyn%20Pettyjohn/Downloads/Queer%20Youth/Lesbean.png" alt="Lesbean" class="image">
+  <div class="overlay">
+    <div class="text">This flag is the Sunset Lesbian flag, but there are many different versions. Not one is exactly <i>right</i>, so use whichever one you resonate with.</div>
+  </div>
+</div>
+	
+<h2>Bi and Pan</h2>
+	<p>Bi and pan is the attraction to two or more genders. Within this community, there has been dispute on the difference between the two. I personally do not know the difference, but bisexuality is more categorized as the attraction to both male and female.</p>
+	<div class="container">
+  <img src="file:///C:/Users/Caelyn%20Pettyjohn/Downloads/Queer%20Youth/Bi.png" alt="Bi" class="image">
+  <div class="overlay">
+    <div class="text">This flag is the Sunset Lesbian flag, but there are many different versions. Not one is exactly <i>right</i>, so use whichever one you resonate with.</div>
+  </div>
+</div>
+<h3>|->Bicurious, Biromantic, Omnisexual, Panromantic, Polysexual</h3>
+
+<h2>Heterosexual</h2>
+	<p>Heterosexual or "straight" is the romantic or sexual attraction to someone of the opposite gender.</p>
+<h3>|->Heteromantic</h3>
+
+<h2>Homosexual</h2>
+	<p>An outdated term which describes the romantic or sexual attraction to someone of the same gender. It is reccomded not to use this term.</p>
+<h3>|-> Homoromantic</h3>
+
+<h2>Queer</h2>
+	<p>Often used as a slur historically, Queer is an umbrella term in which any/all LGBTQ+ may identity. It is not reccomended to be used by anyone outside of the community because of its past.</p>
+
+<h2>Aromantic</h2>
+	<p>Little to no romantic attraction to anyone of any gender.</p>
+
+<h2>Asexual</h2>
+	<p>While being a spectrum, it is generally described as little to no sexual attraction to any gender.</p>
+<h3>|->Graysexual, Greyromantic, Demiromantic, Demisexual</h3>
+
+<h2>Gynesexual & Androsexual</h2>
+	<p>These two identities are very similar to lesbian and gay, but there is a main difference; with Gynesexual, it is the attraction to anyone who <i>presents femininity</i>.</p>
+	
+<p>Polyamorous</p>
+
+<h4>*A woman or man aligned person is someone who is not entirely a woman or man, but feels more alined with that label. For example, a nonbinary person can still be a lesbian if they are woman-aligned and feel attraction mainly to women.</h4>
+
+</body>
+</html>
+
+</center>
+</body>
+</html>

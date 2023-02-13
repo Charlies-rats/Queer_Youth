@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Queer Youth</title>
+	<link rel="stylesheet" type="text/css" href="QY.css" />
+</head>
+<body>
+
+<div class="header">
+  <h2>Queer Youth</h2>
+</div>
+
+<ul>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/QueerYouth.html">Home</a></li>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/Sexuality.html">Sexuality</a></li>
+  <li><a href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/GenderIdentity.html">Gender Identity</a></li>
+  <li style="float:right"><a class="active" href="file:///C:/Users/Caelyn%20Pettyjohn/Documents/MyMission.html">My Mission</a></li>
+</ul>
+
+<br></br>
+	<center>
+<p>Many young people in the coming generations are seeming to struggle
+ with their identity, whether it be sexuality or gender. This page should help you and others understand on a deeper level about the different options that you have.</p>
+ </center>
+<img src="file:///C:/Users/Caelyn%20Pettyjohn/Downloads/Untitled46_20230131210907.png" alt="image not available">
+
+<br></br>
+
+<center>
+<h3>Why visit this webite?</h3>
+<p>While it is true that you are able to look all of this up, having it all condensed in one website is the most convienient way to do a small amount of research quickly. Or if its just for fun, you are able to visit this website and scroll through the pages; maybe someone comes out to you, and you want to know how to support them. You should always find multiple websites, but on a quick and easy-to-navigate website you can get fast support tips for your queer friend.</p>
+</center>
+
+</body>
+</html>
+
